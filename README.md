@@ -17,8 +17,9 @@ It has a featured recipe section that displays random recipes that users can vie
 
 Don't be shy, search for your favorite meal and get a vast variety of recipes to excite you pallate.
 
+![pop out](https://github.com/leone-nyaga/FlavourFusion/blob/master/images/ff%20popup.png)
+
 ![instructions](https://github.com/leone-nyaga/FlavourFusion/blob/master/images/ff%20instructions.png)
 
 Found what you like!!!! Peep the instruction to get a proper method, ingridients and a video to get the gist.
-
 
